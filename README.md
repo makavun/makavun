@@ -2,7 +2,7 @@
 ## I'm a QA Engineer. 
  
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV]( )
 
 
 ### Language and Tools
@@ -23,7 +23,7 @@
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Follow Me
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/qachanell)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)]( )
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
+![Anurag's GitHub stats]( )
