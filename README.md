@@ -2,7 +2,7 @@
 ## I'm a QA Engineer. 
  
 ### My CV
-[Link to my CV]( )
+[Link to my CV](https://drive.google.com/file/d/1NSjrS-f-CjnngzMNgiruyvPe-QgNCH5k/view?usp=sharing)
 
 
 ### Language and Tools
@@ -16,11 +16,10 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Charles and Postman](https://github.com/artichokeee/postman)
+- [Checklists](https://drive.google.com/drive/folders/1hC5ZjTbnQt4XQpNvOCjv2BpVwkEU_HTq?usp=sharing)
+- [Test-Cases](https://drive.google.com/drive/folders/1m7bOJqcUSPuMkANOul8ZCXghkhlcyZ-q?usp=sharing)
+- [Bug-Reports](https://drive.google.com/drive/folders/1JmS4I2c8_SYKe7PYsX13lEqlYH8YG5HA?usp=sharing)
+- [Charles and Postman](https://drive.google.com/drive/folders/1btmOtaj4d58djjrcw78ar9wC_BDg9NNI?usp=sharing)
 
 ### Contacts Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/makavun)
