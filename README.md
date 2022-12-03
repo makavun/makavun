@@ -21,8 +21,8 @@
 - [Bug-Reports](https://drive.google.com/drive/folders/1JmS4I2c8_SYKe7PYsX13lEqlYH8YG5HA?usp=sharing)
 - [Charles and Postman](https://drive.google.com/drive/folders/1btmOtaj4d58djjrcw78ar9wC_BDg9NNI?usp=sharing)
 
-### Contacts Me
+### Contacts 
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/makavun)
 
 
-![Anurag's GitHub stats]( )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makavun&show_icons=true&theme=radical)
