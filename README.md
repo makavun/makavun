@@ -4,6 +4,8 @@
 ### My CV
 [Link to my CV](https://drive.google.com/file/d/1NSjrS-f-CjnngzMNgiruyvPe-QgNCH5k/view?usp=sharing)
 
+### Certificates
+[VK](https://drive.google.com/file/d/1fAR8d1qz5-MoNAF8XNSQ9b1dBSXEmkXy/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
